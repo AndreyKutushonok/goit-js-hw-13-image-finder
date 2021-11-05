@@ -9,6 +9,8 @@ img {
   width: auto;
   max-width: 100%;
   margin: 0;
+  height: 300px;
+  object-fit: cover;
 }
 
 input {
@@ -45,7 +47,7 @@ input {
   flex-direction: column;
   justify-content: flex-end;
   overflow: hidden;
-  height: 300px;
+  height: 370px;
   background-color: #f5f4fa;
   padding: 5px;
   font-weight: 500;
